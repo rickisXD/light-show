@@ -1,6 +1,6 @@
 # **Tesla Light Show xLights Guide**
 
-Welcome to the Tesla Light Show xLights guide! You can create and run your own light shows on Tesla vehicles.
+Welcome to the Tesla Light Show xLights guide! You can create and run your own light shows on cool new Tesla vehicles.
 
 <img src="/images/xlights_overview.png?raw=true" width="1000" />
 
