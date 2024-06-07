@@ -38,8 +38,8 @@ def validate(file):
     if ((minor != 0) and (minor != 2)) or (major != 2):
         print("")
         print(f"WARNING: FSEQ version is {major}.{minor}. Only version 2.0 and 2.2 have been validated.")
-        print(f"If the car fails to read this file, download and older version of XLights at https://github.com/smeighan/xLights/releases")
-        print(f"Please report this message at https://github.com/teslamotors/light-show/issues")
+        print("If the car fails to read this file, download and older version of XLights at https://github.com/smeighan/xLights/releases")
+        print("Please report this message at https://github.com/teslamotors/light-show/issues")
         print("")
 
     file.seek(start)
